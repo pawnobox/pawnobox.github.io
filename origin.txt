@@ -1,0 +1,472 @@
+Uri: http://malibu-rp.ru/
+File Name: D:\Слитые сайты\malibu-rp.ru\index.html
+Content Type: text/html
+
+Uri: http://malibu-rp.ru/assets/img/favicon.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\favicon.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/favicon_apple.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\favicon_apple.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/css/reset.css
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\css\reset.css
+Content Type: text/css
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/bloggersans.css
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\bloggersans.css
+Content Type: text/css
+
+Uri: http://malibu-rp.ru/assets/fonts/intro/intro.css
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\intro\intro.css
+Content Type: text/css
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/roboto.css
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\roboto.css
+Content Type: text/css
+
+Uri: http://malibu-rp.ru/assets/fonts/fontawesome/css/font-awesome.css
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\fontawesome\css\font-awesome.css
+Content Type: text/css
+
+Uri: http://malibu-rp.ru/assets/bootstrap/css/bootstrap.min.css
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://malibu-rp.ru/assets/css/animate.css
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\css\animate.css
+Content Type: text/css
+
+Uri: http://malibu-rp.ru/assets/css/style.css
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\css\style.css
+Content Type: text/css
+
+Uri: http://malibu-rp.ru/assets/css/responsive.css
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\css\responsive.css
+Content Type: text/css
+
+Uri: http://malibu-rp.ru/donate
+File Name: D:\Слитые сайты\malibu-rp.ru\donate.html
+Content Type: text/html
+
+Uri: http://malibu-rp.ru/assets/js/jquery.min.js
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://malibu-rp.ru/assets/js/wow.js
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\js\wow.js
+Content Type: application/x-javascript
+
+Uri: http://malibu-rp.ru/assets/js/jquery.spincrement.js
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\js\jquery.spincrement.js
+Content Type: application/x-javascript
+
+Uri: http://malibu-rp.ru/assets/js/jquery.viewportchecker.min.js
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\js\jquery.viewportchecker.min.js
+Content Type: application/x-javascript
+
+Uri: http://malibu-rp.ru/assets/bootstrap/js/bootstrap.min.js
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\bootstrap\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: http://malibu-rp.ru/assets/js/totop.js
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\js\totop.js
+Content Type: application/x-javascript
+
+Uri: http://malibu-rp.ru/assets/img/logo.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\logo.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/donate.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\donate.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/howgame.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\howgame.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/top1.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\top1.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/top2.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\top2.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/top3.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\top3.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/mark.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\mark.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansmedium.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansmedium.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansmedium.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansmedium-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansmedium.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansmedium-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansmediumitalic.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansmediumitalic.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansmediumitalic.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansmediumitalic-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansmediumitalic.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansmediumitalic-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansitalic.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansitalic.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansitalic.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansitalic-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansitalic.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansitalic-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersanslight.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersanslight.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersanslight.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersanslight-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersanslight.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersanslight-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersans.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersans.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersans.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersans-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersans.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersans-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansbolditalic.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansbolditalic.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansbolditalic.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansbolditalic-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansbolditalic.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansbolditalic-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansbold.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansbold.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansbold.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansbold-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersansbold.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersansbold-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersanslightitalic.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersanslightitalic.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersanslightitalic.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersanslightitalic-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/bloggersans/Bloggersanslightitalic.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\bloggersans\Bloggersanslightitalic-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/intro/intro.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\intro\intro.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/intro/intro.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\intro\intro-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/intro/intro.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\intro\intro-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotothin.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotothin.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotothin.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotothin-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotothin.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotothin-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotothinitalic.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotothinitalic.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotothinitalic.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotothinitalic-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotothinitalic.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotothinitalic-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotolight.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotolight.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotolight.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotolight-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotolight.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotolight-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotolightitalic.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotolightitalic.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotolightitalic.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotolightitalic-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotolightitalic.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotolightitalic-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Roboto.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Roboto.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Roboto.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Roboto-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotoitalic.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotoitalic.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotoitalic.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotoitalic-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotoitalic.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotoitalic-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotomedium.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotomedium.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotomedium.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotomedium-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotomedium.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotomedium-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotomediumitalic.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotomediumitalic.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotomediumitalic.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotomediumitalic-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotomediumitalic.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotomediumitalic-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotobold.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotobold.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotobold.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotobold-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotobold.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotobold-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotobolditalic.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotobolditalic.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotobolditalic.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotobolditalic-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotobolditalic.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotobolditalic-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotoblack.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotoblack.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotoblack.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotoblack-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotoblack.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotoblack-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotoblackitalic.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotoblackitalic.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotoblackitalic.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotoblackitalic-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/roboto/Robotoblackitalic.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\roboto\Robotoblackitalic-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/fontawesome/fonts/fontawesome-webfont.eot
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\fontawesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://malibu-rp.ru/assets/fonts/fontawesome/fonts/fontawesome-webfont.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\fontawesome\fonts\fontawesome-webfont.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/fontawesome/fonts/fontawesome-webfont.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\fontawesome\fonts\fontawesome-webfont-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/fontawesome/fonts/fontawesome-webfont.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\fontawesome\fonts\fontawesome-webfont-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/fonts/fontawesome/fonts/fontawesome-webfont.svg
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\fonts\fontawesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://malibu-rp.ru/assets/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://malibu-rp.ru/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\bootstrap\fonts\glyphicons-halflings-regular.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\bootstrap\fonts\glyphicons-halflings-regular-1.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\bootstrap\fonts\glyphicons-halflings-regular-2.txt
+Content Type: text/plain
+
+Uri: http://malibu-rp.ru/assets/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://malibu-rp.ru/assets/img/bgMainEasy.jpg
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\bgMainEasy.jpg
+Content Type: image/jpeg
+
+Uri: http://malibu-rp.ru/assets/img/bgMain.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\bgMain.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/bgChange.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\bgChange.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/bgDonate.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\bgDonate.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/bgSucces.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\bgSucces.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/bgLotery.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\bgLotery.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/bgLoteryIn.jpg
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\bgLoteryIn.jpg
+Content Type: image/jpeg
+
+Uri: http://malibu-rp.ru/assets/img/bgWin.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\bgWin.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/play.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\play.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/beach.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\beach.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/key.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\key.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/summer.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\summer.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/wave.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\wave.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/titlebg.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\titlebg.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/manSucces.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\manSucces.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/items/shadow.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\items\shadow.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/assets/img/smileGirl.png
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\img\smileGirl.png
+Content Type: image/png
+
+Uri: http://malibu-rp.ru/pokupka
+File Name: D:\Слитые сайты\malibu-rp.ru\pokupka.html
+Content Type: text/html
+
+Uri: http://malibu-rp.ru/buy
+File Name: D:\Слитые сайты\malibu-rp.ru\buy.html
+Content Type: text/html
+
+Uri: http://malibu-rp.ru/assets/js/changerServer.js
+File Name: D:\Слитые сайты\malibu-rp.ru\assets\js\changerServer.js
+Content Type: application/x-javascript
+
